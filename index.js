@@ -1,1 +1,2 @@
-alert('nariman')
+alert('nariman');
+alert('nima');
